@@ -1,6 +1,6 @@
 {
   "name": "canvas-composite-types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": "https://github.com/vicapow/canvas-composite-types.git",
   "description": "An array of the canvas composite types",
   "main": "index.js",
