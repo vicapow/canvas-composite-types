@@ -1,12 +1,16 @@
 {
   "name": "canvas-composite-types",
-  "version": "1.0.1",
-  "description": "A list of the canvas composite types",
+  "version": "1.0.2",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/vicapow/canvas-composite-types.git"
+  },
+  "description": "An array of the canvas composite types",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "vicapow/canvas-composite-types",
   "author": "Victor Powell",
-  "license": "ISC"
+  "license": "MIT"
 }
